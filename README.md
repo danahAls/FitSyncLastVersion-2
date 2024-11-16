@@ -11,7 +11,3 @@ FitSync is an app that helps users find exercises based on their free time. Afte
   ## Tech Stack
   -SwiftUI
   -Swift
-
-  ## Collaborators
-  ([Danah Alsultan]
-  (https://github.com/danahAls))
